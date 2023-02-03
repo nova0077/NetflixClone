@@ -1,0 +1,35 @@
+.features{
+  background-color: black;
+  padding: 0px 6%;
+  font-size: 22px;
+  border-bottom: 6px solid #333;
+}
+.features .row{
+  border-top: 6px solid #333;
+  padding-top: 30px;
+  margin-top: 0px;
+}
+.text-col{
+  flex-basis: 50%;
+  margin-bottom: 30px;
+}
+.img-col{
+  flex-basis: 50%;
+  margin-bottom: 30px;
+}
+.img-col img{
+  display: block;
+  width: 90%;
+  margin-left: 0px;
+  margin-right: 0;
+}
+.features h2{
+  font-size: 50px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.features p{
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 130%;
+}

@@ -1,0 +1,46 @@
+.footer{
+  padding: 70px 15% 10px;
+  color: #777;
+}
+.footer h3{
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+.footer .col{
+  flex-basis: 25%;
+  flex-grow: 1;
+  margin-bottom: 20px;
+}
+.footer .col a{
+  display: block;
+  text-decoration: none;
+  color: #777;
+  font-size: 12px;
+  margin-bottom: 18px;
+}
+.footer .row{
+  align-items: flex-start;
+  padding: 10px 0;
+}
+.footer .lang-btn{
+  color: #777;
+  border-width: 1px;
+  border-color: #777;
+  font-size: 16px;
+  padding: 16px 16px;
+  border-radius: 2px;
+}
+.copyright-text{
+  font-size: 12px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.row{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 70px;
+  margin-top: 70px;
+}
